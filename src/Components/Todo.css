@@ -1,0 +1,28 @@
+.wrapper{
+     margin: auto;
+     max-width: 36rem;
+}
+.input-and-btn{
+     display: flex ;
+}
+
+.todo-box,
+.content{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     margin: 8px 0;
+}
+
+.checkbox{
+     cursor: pointer;
+}
+
+.deleteAll{
+     margin: auto;
+     margin-top: 20px;
+}
+
+.action-box button{
+     margin: 0 5px;
+}
